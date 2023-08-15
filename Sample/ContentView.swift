@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  sample
+//  Sample
 //
 //  Created by Vineet Choudhary on 15/08/23.
 //
